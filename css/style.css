@@ -445,7 +445,7 @@ button {
     background-image: url(../images/carpet-img.png);
     background-repeat: no-repeat;
 }
-.tiles_img_ele {
+/* .tiles_img_ele {
     width: 74px;
     margin: 0 auto;
     text-align: center;
@@ -516,7 +516,7 @@ button {
     background-image: url(../images/pharmacist.png);
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
 
 
