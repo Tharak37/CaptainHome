@@ -452,6 +452,7 @@ button {
     min-height: 90px;
     background-image: url(../images/electrician.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_plum {
     width: 74px;
@@ -460,6 +461,7 @@ button {
     min-height: 90px;
     background-image: url(../images/plumber.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_carp {
     width: 74px;
@@ -468,6 +470,7 @@ button {
     min-height: 90px;
     background-image: url(../images/carpenter.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_mas {
     width: 74px;
@@ -476,6 +479,7 @@ button {
     min-height: 90px;
     background-image: url(../images/worker-of-construction-working-with-a-shovel-beside-material-pile.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_wal {
     width: 74px;
@@ -484,6 +488,7 @@ button {
     min-height: 90px;
     background-image: url(../images/roller-brush.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_maid {
     width: 74px;
@@ -492,6 +497,7 @@ button {
     min-height: 90px;
     background-image: url(../images/maid.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_laun {
     width: 74px;
@@ -500,6 +506,7 @@ button {
     min-height: 90px;
     background-image: url(../images/laundry.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .tiles_img_phar {
     width: 74px;
@@ -508,6 +515,7 @@ button {
     min-height: 90px;
     background-image: url(../images/pharmacist.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
